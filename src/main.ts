@@ -6,7 +6,7 @@ import "~/styles/index.scss";
 import "uno.css";
 import routes from '~pages'
 import App from './App.vue'
-
+import "./style.css";
 const router = createRouter({
     history: createWebHistory(),
     routes,
